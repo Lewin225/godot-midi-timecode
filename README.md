@@ -1,4 +1,4 @@
-Implement missing MIDI messages
+Project to implement missing MIDI messages in godotengine 
 
 *MIDI_MESSAGE_SYSTEM_EXCLUSIVE = 240*
 
