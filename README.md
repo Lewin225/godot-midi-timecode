@@ -1,5 +1,7 @@
 Project to implement missing MIDI messages in godotengine 
 
+Do not use or compile
+
 *MIDI_MESSAGE_SYSTEM_EXCLUSIVE = 240*
 
 MIDI system exclusive message. This has behavior exclusive to the device you're receiving input from. Getting this data is not implemented in Godot.
